@@ -1,3 +1,4 @@
 The system accepts negative values.
 Expected: Error message
 Actual: Accepts and calculates with -50.
+Fixed: Added validation for negative values.
