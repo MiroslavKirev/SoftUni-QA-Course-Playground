@@ -1,0 +1,4 @@
+Bug: App crashes on empty input.
+Expected: Show warning.
+Actual: App crashes.
+Fixed: Added check for empty input.
